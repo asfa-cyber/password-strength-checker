@@ -10,5 +10,5 @@ You can test the live bot here: https://chk_pwrd_bot
 * Smart Analysis: Uses Dropbox's 'zxcvbn' algorithm to detect lazy patterns (like 'qwerty' or 'password').
 * Auto-Delate for Safety: Instantly deletes user's password message from chat history for maximum privacy.
 
-  #👨‍💻Developer
-  Created by 
+#👨‍💻Developer
+Created by 
