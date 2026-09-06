@@ -2,7 +2,7 @@
 Simple and secure Telegram bot written in Python using "aiogram" and "zxcvbn" library. It checks password length, character composition, and estimates brute- force time.
 
 #🚀Live demo
-You can test the live bot here: https://chk_pwrd_bot
+You can test the live bot here: t.me/chk_pwrd_bot
 
 #🛡️ Key Features
 * Length Validation: Restricts passwords strictly between 8 and 16 characters.
